@@ -37,7 +37,7 @@ This script will unzip .7z files into the roms folder in mame (the one you typed
 
 If you downloaded CHD files that are not zipped with 7zip but with another extension (like .zip) then all you need to do is add `-ext "zip"` to the command:
 
-```ps
+```powershell
 .\unzip_chd.ps1  -Destination "<your roms path folder>" -ext "zip"
 ```
 
