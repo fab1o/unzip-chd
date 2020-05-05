@@ -1,7 +1,8 @@
 # unzip-chd
-Auto extracts zipped CHDs into your mame roms folder correctly.
 
-It's an automation script that follows this process: [How to Get CHD Files to Work With MAME]()
+The script will automatically unzip those CHD zipped files exacly the way they should be for mame to work with them. Otherwise, you will have to do this process manually. And it works with any version of CHDs you download online because it's simply a general script for extracting files in a certain way. As long as they are zipped.
+
+It follows this process: [How to Get CHD Files to Work With MAME]()
 
 ## Requirements
 
