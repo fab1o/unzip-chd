@@ -2,7 +2,7 @@
 
 The script will automatically unzip those CHD zipped files exacly the way they should be for mame to work with them. Otherwise, you will have to do this process manually. And it works with any version of CHDs you download online because it's simply a general script for extracting files in a certain way. As long as they are zipped.
 
-It follows this process: [How to Get CHD Files to Work With MAME]()
+It follows this process: [How to Get CHD Files to Work With MAME](https://itstillworks.com/12603704/how-to-get-chd-files-to-work-with-mame)
 
 ## Requirements
 
